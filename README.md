@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fitrah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=1sLzYbik&id=5B218D0C4B4D46C4B91C4CFED88510049123967B&thid=OIP.1sLzYbiki_rgLJntm79zjgHaHa&mediaurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fbusinessman-avatar-cartoon-character-profile_18591-50581.jpg%3Fw%3D2000&exph=2000&expw=2000&q=animasi+people+profil+gif&simid=608053213962053472&form=IRPRST&ck=D3D2F3A9C225CF1659858779EE154144&selectedindex=3&itb=0&ajaxhist=0&ajaxserp=0&cit=ccid_fmUrExUM*cp_F7319B0267F63D20858972D0500A4FCF*mid_97021F56D871BD9E5D30CE78192470D549E5D729*simid_608042158712454082*thid_OIP.fmUrExUMup8nihEt1LNwPgHaHa&vt=2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitrah-andhika-ramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="fitrah-andhika-ramadhan" /> </p>
 
